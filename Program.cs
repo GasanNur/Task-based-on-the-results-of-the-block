@@ -15,3 +15,24 @@ void array(string[] stringArray)
         stringArray[i] = Console.ReadLine();
     }
 }
+// Пишем функцию которая принемает элементы проверяет их и возвращает заданный результат 
+string[] symbol(string[] stringArray)
+{
+    int m = 0;
+    for (int i = 0; i < stringArray.Length; i++)
+    {
+        if (stringArray[i].Length <= 3)
+            m++;
+    }
+    string[] rez = new string[m];
+    int j = 0;
+    for (int i = 0; i < stringArray.Length; i++)
+    {
+        if (stringArray[i].Length <= 3)
+        {
+            rez[j] = stringArray[i];
+            j++;
+        }
+    }
+    return rez;
+}
