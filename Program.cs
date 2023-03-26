@@ -46,3 +46,5 @@ void printResult(string[] stringArray)
     }
     Console.Write("]");
 }
+array(stringArray);
+printResult(Elements(stringArray));
