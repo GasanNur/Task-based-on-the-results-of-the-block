@@ -13,3 +13,18 @@ O:\Личное\GB\C#\Задача по итогам блока\obj\Debug\net6.0
 O:\Личное\GB\C#\Задача по итогам блока\obj\Debug\net6.0\Задача по итогам блока.pdb
 O:\Личное\GB\C#\Задача по итогам блока\obj\Debug\net6.0\Задача по итогам блока.genruntimeconfig.cache
 O:\Личное\GB\C#\Задача по итогам блока\obj\Debug\net6.0\ref\Задача по итогам блока.dll
+O:\Личное\GB\C#\Task based on the results of the block\bin\Debug\net6.0\Задача по итогам блока.exe
+O:\Личное\GB\C#\Task based on the results of the block\bin\Debug\net6.0\Задача по итогам блока.deps.json
+O:\Личное\GB\C#\Task based on the results of the block\bin\Debug\net6.0\Задача по итогам блока.runtimeconfig.json
+O:\Личное\GB\C#\Task based on the results of the block\bin\Debug\net6.0\Задача по итогам блока.dll
+O:\Личное\GB\C#\Task based on the results of the block\bin\Debug\net6.0\Задача по итогам блока.pdb
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.csproj.AssemblyReference.cache
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.GeneratedMSBuildEditorConfig.editorconfig
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.AssemblyInfoInputs.cache
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.AssemblyInfo.cs
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.csproj.CoreCompileInputs.cache
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.dll
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\refint\Задача по итогам блока.dll
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.pdb
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\Задача по итогам блока.genruntimeconfig.cache
+O:\Личное\GB\C#\Task based on the results of the block\obj\Debug\net6.0\ref\Задача по итогам блока.dll
