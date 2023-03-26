@@ -16,7 +16,7 @@ void array(string[] stringArray)
     }
 }
 // Пишем функцию которая принемает элементы проверяет их и возвращает заданный результат 
-string[] symbol(string[] stringArray)
+string[] Elements(string[] stringArray)
 {
     int m = 0;
     for (int i = 0; i < stringArray.Length; i++)
@@ -35,4 +35,14 @@ string[] symbol(string[] stringArray)
         }
     }
     return rez;
+}
+// функция которая выводит результат 
+void printResult(string[] stringArray)
+{
+    Console.Write("[");
+    for (int i = 0; i < stringArray.Length; i++)
+    {
+        Console.Write($"‘{stringArray[i]}’, ");
+    }
+    Console.Write("]");
 }
